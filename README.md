@@ -14,9 +14,10 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![](./assets/Images/Screenshot%202022-08-14%20at%2013-52-03%20Frontend%20Mentor%20Single%20Price%20Grid%20Component.png)
+![](./assets/Images/Screen%20Shot%202022-08-14%20at%2015.12.41.png)
 
 ### Links
 
